@@ -1,0 +1,6 @@
+// Building an API using node expresse
+
+//create the servver app
+//routes
+//implement controllers //router handler
+//using environment variables
